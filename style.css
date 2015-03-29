@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+#map-canvas {
+  height: 500px;
+  width: 600px;
+}
+
+#visualization {
+  height: 400px;
+  width: 500px;
+}
